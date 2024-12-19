@@ -67,6 +67,7 @@ h1 {
 }
 
 #startbtn{
+    cursor: pointer; /* 確保滑過按鈕時鼠標變成手型 */
     padding: 10px 20px;
     background-color: white;
     color: #3498db;
